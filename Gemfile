@@ -7,3 +7,5 @@ gem "redcarpet"
 gem "middleman-syntax"
 gem "middleman-search_engine_sitemap"
 gem "nokogiri"
+gem 'execjs'
+gem 'therubyracer'
