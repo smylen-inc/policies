@@ -94,7 +94,7 @@ We will assist you in remedying the situation.
 Sincerely,
 
 
-Derek Giddon, MD  
-Co-founder - Smylen, Inc.  
-travis@smylen.com  
-303-351-2640
+Derek Giddon, DMD
+CEO/Co-founder - Smylen, Inc.  
+derek@smylen.com  
+516-633-9016‬

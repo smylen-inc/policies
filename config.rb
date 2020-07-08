@@ -18,7 +18,7 @@ set :markdown, :xhtml => true, :fenced_code_blocks => true, :smartypants => true
 
 activate :syntax, :wrap => true
 
-set :url_root, 'https://policy.smylen.com'
+set :url_root, 'https://security-policy.smylen.com'
 
 activate :search_engine_sitemap
 

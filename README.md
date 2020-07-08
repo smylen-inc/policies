@@ -16,7 +16,7 @@ As a company who handles PHI, it's critical you maintain and publish your own po
 
 [x] Read through all the enclosed policies to get an understanding to the structure.
 [x] When ready, download the policies and comb through for mentions of Smylen or our business and change to appropriate references to your company.
-[] Publish your policies in a publicly available location. The files are markdown, so you may need to convert to HTML if you don't have a publishing platform capable of markdown format. You can either create an index page linking to each individual policy, or create a single page listing all the policies in line, [much like we did](https://policy.smylen.com).
+[] Publish your policies in a publicly available location. The files are markdown, so you may need to convert to HTML if you don't have a publishing platform capable of markdown format. You can either create an index page linking to each individual policy, or create a single page listing all the policies in line, [much like we did](https://security-policy.smylen.com).
 
 ## Who is behind this?
 
